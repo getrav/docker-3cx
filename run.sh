@@ -19,4 +19,4 @@ docker run \
         -v 3cx_log:/var/log \
         --cap-add SYS_ADMIN \
         --cap-add NET_ADMIN \
-        ${REPO}
+        farful/3cx:latest
