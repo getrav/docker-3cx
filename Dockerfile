@@ -1,4 +1,4 @@
-FROM debian:buster
+FROM debian:bookworm
   
 ARG BUILD_STRING
 ARG BUILD_DATE
